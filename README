@@ -1,3 +1,12 @@
+Tcl JSMin
+
+This is primarily a tcl interface to Douglas Crockford's javascrip minifier.
+It is built around a refactoring of the original code into a reentrant
+function, and a simple tcl wrapper of that.
+
+
+Original README:
+
 JSMin, The JavaScript Minifier
 
 
